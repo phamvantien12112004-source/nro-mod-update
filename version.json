@@ -1,0 +1,7 @@
+{
+  "version": 101,
+  "version_name": "1.0.1",
+  "dll_url": "https://raw.githubusercontent.com/phamvantien12112004-source/nro-mod-update/main/Assembly-CSharp.dll",
+  "changelog": "Cập nhật tính năng Auto-Update và ModLoader không cần build lại client",
+  "required": false
+}
